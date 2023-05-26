@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Orion 24mm f/1.4 Wide-Angle Lens",
+    "price": 749,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "24mm focal length, f/1.4 maximum aperture, manual focus",
+    "info": "The Orion 24mm f/1.4 Wide-Angle Lens is perfect for landscape and astrophotography. Its wide-angle view captures expansive scenes, and the fast f/1.4 aperture performs well in low light."
+  },
+  {
+    "name": "ProFocus 85mm f/1.8 Portrait Lens",
+    "price": 659,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "85mm focal length, f/1.8 maximum aperture, autofocus",
+    "info": "The ProFocus 85mm f/1.8 Portrait Lens is designed for creating beautiful portrait images with a pleasing background blur. Its focal length and wide aperture make it ideal for headshots and studio work."
+  },
+  {
+    "name": "EagleEye 100mm f/2.8 Macro Lens",
+    "price": 789,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "100mm focal length, f/2.8 maximum aperture, autofocus, 1:1 magnification",
+    "info": "The EagleEye 100mm f/2.8 Macro Lens is great for capturing detailed close-up images of small subjects, such as insects and flowers. Its 1:1 magnification ratio delivers life-size images."
+  },
+  {
+    "name": "Orion 50mm f/1.4 Standard Lens",
+    "price": 399,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "50mm focal length, f/1.4 maximum aperture, autofocus",
+    "info": "The Orion 50mm f/1.4 Standard Lens is a versatile lens for everyday photography. It's great for travel, street, and portrait photography, and its wide aperture performs well in low light."
+  },
+  {
+    "name": "ZoomMaster 70-200mm f/2.8 Telephoto Zoom Lens",
+    "price": 1199,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "70-200mm zoom range, f/2.8 constant maximum aperture, autofocus",
+    "info": "The ZoomMaster 70-200mm f/2.8 Telephoto Zoom Lens is ideal for sports and wildlife photography. Its fast aperture allows for clear images in a range of light conditions, and the zoom range is flexible for framing distant subjects."
+  },
+  {
+    "name": "ProFocus 135mm f/2 Portrait Lens",
+    "price": 949,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "135mm focal length, f/2 maximum aperture, autofocus",
+    "info": "The ProFocus 135mm f/2 Portrait Lens provides a longer focal length for portrait photography, delivering a high level of clarity and detail while maintaining a pleasing background blur. It's ideal for outdoor portraits and studio work."
+  },
+  {
+    "name": "WideMaster 14mm f/2.8 Ultra-Wide Angle Lens",
+    "price": 849,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "14mm focal length, f/2.8 maximum aperture, manual focus",
+    "info": "The WideMaster 14mm f/2.8 Ultra-Wide Angle Lens is perfect for capturing large scenes in landscape and architectural photography. Its ultra-wide perspective can also create unique and creative images."
+  },
+  {
+    "name": "EagleEye 180mm f/3.5 Macro Lens",
+    "price": 1029,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "180mm focal length, f/3.5 maximum aperture, autofocus, 1:1 magnification",
+    "info": "The EagleEye 180mm f/3.5 Macro Lens is a powerful tool for detailed close-up images, providing a longer working distance to not disturb the subject, ideal for insects and wildlife close-ups."
+  },
+  {
+    "name": "ZoomMaster 24-70mm f/2.8 Standard Zoom Lens",
+    "price": 1099,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "24-70mm zoom range, f/2.8 constant maximum aperture, autofocus",
+    "info": "The ZoomMaster 24-70mm f/2.8 Standard Zoom Lens is a versatile tool for a variety of photography styles. Its zoom range covers wide to short telephoto focal lengths, suitable for landscapes, portraits, and event photography."
+  },
+  {
+    "name": "WideMaster 20mm f/1.8 Wide-Angle Lens",
+    "price": 779,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "20mm focal length, f/1.8 maximum aperture, autofocus",
+    "info": "The WideMaster 20mm f/1.8 Wide-Angle Lens excels in low-light conditions and is suitable for landscape, night sky, and environmental portrait photography. Its wide perspective captures large scenes."
+  },
+  {
+    "name": "Orion 35mm f/1.4 Prime Lens",
+    "price": 599,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "35mm focal length, f/1.4 maximum aperture, autofocus",
+    "info": "The Orion 35mm f/1.4 Prime Lens is a versatile lens, perfect for a range of situations including street photography, portraits, and indoor low-light conditions."
+  },
+  {
+    "name": "ProFocus 105mm f/2 Portrait Lens",
+    "price": 879,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "105mm focal length, f/2 maximum aperture, autofocus",
+    "info": "The ProFocus 105mm f/2 Portrait Lens is an excellent choice for both studio and natural light conditions, ideal for creating a pleasing bokeh effect in your portraits."
+  },
+  {
+    "name": "EagleEye 50mm f/2.8 Compact Macro Lens",
+    "price": 499,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "50mm focal length, f/2.8 maximum aperture, autofocus, 1:1 magnification",
+    "info": "The EagleEye 50mm f/2.8 Compact Macro Lens is perfect for photographers who are new to macro photography. It offers 1:1 magnification for capturing detailed, life-size images of small subjects."
+  },
+  {
+    "name": "Orion 28mm f/2 Wide Angle Lens",
+    "price": 479,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "28mm focal length, f/2 maximum aperture, autofocus",
+    "info": "The Orion 28mm f/2 Wide Angle Lens is suitable for landscape and street photography, providing a natural perspective and a fast aperture for low-light conditions."
+  },
+  {
+    "name": "ZoomMaster 200-500mm f/5.6 Super Telephoto Zoom Lens",
+    "price": 1399,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "200-500mm zoom range, f/5.6 constant maximum aperture, autofocus",
+    "info": "The ZoomMaster 200-500mm f/5.6 Super Telephoto Zoom Lens is designed for wildlife and sports photography, allowing you to get close to distant subjects and capture them in great detail."
+  },
+  {
+    "name": "ProFocus 200mm f/2.8 Portrait Lens",
+    "price": 1249,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "200mm focal length, f/2.8 maximum aperture, autofocus",
+    "info": "The ProFocus 200mm f/2.8 Portrait Lens provides an excellent solution for portraits that require a greater distance between the camera and subject, like candid and event portraits."
+  },
+  {
+    "name": "WideMaster 10mm f/4 Ultra-Wide Angle Lens",
+    "price": 749,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "10mm focal length, f/4 maximum aperture, manual focus",
+    "info": "The WideMaster 10mm f/4 Ultra-Wide Angle Lens is a perfect tool for dramatic landscape and architectural shots. It offers an expansive view that captures a vast scene into one frame."
+  },
+  {
+    "name": "EagleEye 60mm f/2.8 Macro Lens",
+    "price": 549,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "60mm focal length, f/2.8 maximum aperture, autofocus, 1:1 magnification",
+    "info": "The EagleEye 60mm f/2.8 Macro Lens is a versatile tool for close-up shots, ideal for capturing the finest details in small subjects. It's also suitable for portraits due to its flattering perspective."
+  },
+  {
+    "name": "ZoomMaster 18-35mm f/1.8 Wide Zoom Lens",
+    "price": 799,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "18-35mm zoom range, f/1.8 constant maximum aperture, autofocus",
+    "info": "The ZoomMaster 18-35mm f/1.8 Wide Zoom Lens is ideal for landscapes, architecture, and low-light photography. Its wide aperture allows for creative depth-of-field control and excellent low-light performance."
+  },
+  {
+    "name": "Orion 40mm f/2 Pancake Lens",
+    "price": 229,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "40mm focal length, f/2 maximum aperture, manual focus",
+    "info": "The Orion 40mm f/2 Pancake Lens is a compact and lightweight lens suitable for everyday and travel photography. It provides a balance between a wide and portrait-length perspective."
+  }
+]
