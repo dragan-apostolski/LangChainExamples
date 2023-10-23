@@ -1,162 +1,182 @@
 [
   {
-    "name": "Orion 24mm f/1.4 Wide-Angle Lens",
-    "price": 749,
+    "name": "Canon EF 24-70mm f/2.8L II USM Lens",
+    "price": 1749,
     "shipping_time": "3-5 business days",
     "warranty": "2 years",
-    "technical_details": "24mm focal length, f/1.4 maximum aperture, manual focus",
-    "info": "The Orion 24mm f/1.4 Wide-Angle Lens is perfect for landscape and astrophotography. Its wide-angle view captures expansive scenes, and the fast f/1.4 aperture performs well in low light."
+    "technical_details": "24-70mm focal length, f/2.8 maximum aperture, USM autofocus",
+    "info": "The Canon EF 24-70mm f/2.8L II USM is a versatile standard zoom lens that covers a useful wide-angle to portrait-length range of focal lengths, perfect for professional photography.",
+    "compatible_with": ["Canon EOS 5D Mark IV", "Canon EOS 6D Mark II", "Canon EOS 1D X Mark II"]
   },
   {
-    "name": "ProFocus 85mm f/1.8 Portrait Lens",
-    "price": 659,
+    "name": "Nikon AF-S DX NIKKOR 35mm f/1.8G Lens",
+    "price": 196,
     "shipping_time": "3-5 business days",
     "warranty": "2 years",
-    "technical_details": "85mm focal length, f/1.8 maximum aperture, autofocus",
-    "info": "The ProFocus 85mm f/1.8 Portrait Lens is designed for creating beautiful portrait images with a pleasing background blur. Its focal length and wide aperture make it ideal for headshots and studio work."
+    "technical_details": "35mm focal length, f/1.8 maximum aperture, Silent Wave Motor autofocus",
+    "info": "The Nikon AF-S DX NIKKOR 35mm f/1.8G is an all-around lens that is compact, lightweight, and versatile. It's perfect for portraits, street photography, and everyday use.",
+    "compatible_with": ["Nikon D7500", "Nikon D5600", "Nikon D3500"]
   },
   {
-    "name": "EagleEye 100mm f/2.8 Macro Lens",
-    "price": 789,
+    "name": "Sony FE 24-70mm f/2.8 GM Lens",
+    "price": 2198,
     "shipping_time": "3-5 business days",
     "warranty": "2 years",
-    "technical_details": "100mm focal length, f/2.8 maximum aperture, autofocus, 1:1 magnification",
-    "info": "The EagleEye 100mm f/2.8 Macro Lens is great for capturing detailed close-up images of small subjects, such as insects and flowers. Its 1:1 magnification ratio delivers life-size images."
+    "technical_details": "24-70mm focal length, f/2.8 maximum aperture, Direct Drive SSM autofocus",
+    "info": "The Sony FE 24-70mm f/2.8 GM Lens is a professional-grade lens that covers a popular focal length range, perfect for a wide variety of shooting scenarios and conditions.",
+    "compatible_with": ["Sony a7R IV", "Sony a9 II", "Sony a7 III"]
   },
   {
-    "name": "Orion 50mm f/1.4 Standard Lens",
-    "price": 399,
+    "name": "Fujifilm XF 56mm f/1.2 R Lens",
+    "price": 999,
     "shipping_time": "3-5 business days",
     "warranty": "2 years",
-    "technical_details": "50mm focal length, f/1.4 maximum aperture, autofocus",
-    "info": "The Orion 50mm f/1.4 Standard Lens is a versatile lens for everyday photography. It's great for travel, street, and portrait photography, and its wide aperture performs well in low light."
+    "technical_details": "56mm focal length, f/1.2 maximum aperture, autofocus",
+    "info": "The Fujifilm XF 56mm f/1.2 R Lens is a prime portrait-length lens that provides a comfortable perspective for everyday shooting, and it's also well-suited for events and portraiture.",
+    "compatible_with": ["Fujifilm X-T4", "Fujifilm X-Pro3", "Fujifilm X-T30"]
   },
   {
-    "name": "ZoomMaster 70-200mm f/2.8 Telephoto Zoom Lens",
+    "name": "Olympus M.Zuiko Digital ED 40-150mm f/2.8 PRO Lens",
+    "price": 1499,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "40-150mm focal length, f/2.8 maximum aperture, High-speed Imager AF",
+    "info": "The Olympus M.Zuiko Digital ED 40-150mm f/2.8 PRO is a versatile zoom lens, perfect for portraits and indoor sports with a unique collapsible design.",
+    "compatible_with": ["Olympus OM-D E-M5 Mark III", "Olympus OM-D E-M1 Mark III", "Olympus PEN-F"]
+  },
+  {
+    "name": "Panasonic Lumix G Leica DG Nocticron 42.5mm f/1.2 Lens",
+    "price": 1597,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "42.5mm focal length, f/1.2 maximum aperture, Power O.I.S. stabilization",
+    "info": "The Panasonic Lumix G Leica DG Nocticron 42.5mm f/1.2 is a prime lens that offers a fast maximum aperture and is perfect for portraiture with its smooth out-of-focus quality when working with shallow depth of field techniques.",
+    "compatible_with": ["Panasonic Lumix DC-GH5 II", "Panasonic Lumix DC-G9", "Panasonic Lumix DC-GX9"]
+  },
+  {
+    "name": "Sigma 18-35mm f/1.8 DC HSM Art Lens for Canon",
+    "price": 639,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "18-35mm focal length, f/1.8 maximum aperture, HSM autofocus",
+    "info": "The Sigma 18-35mm f/1.8 DC HSM Art Lens for Canon is a unique lens that offers a fast maximum aperture for a zoom. It's perfect for landscapes, portraits, still life, snapshots, casual, and close-ups.",
+    "compatible_with": ["Canon EOS 80D", "Canon EOS 7D Mark II", "Canon EOS 77D"]
+  },
+  {
+    "name": "Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR Lens",
+    "price": 2196,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "70-200mm focal length, f/2.8 maximum aperture, Silent Wave Motor autofocus, Vibration Reduction",
+    "info": "The Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR Lens is a telephoto zoom characterized by a constant f/2.8 maximum aperture for consistent performance throughout the zoom range, making it ideal for sports, events, and portrait photography.",
+    "compatible_with": ["Nikon D850", "Nikon D780", "Nikon D750"]
+  },
+  {
+    "name": "Sony FE 70-200mm f/2.8 GM OSS Lens",
+    "price": 2598,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "70-200mm focal length, f/2.8 maximum aperture, Direct Drive SSM autofocus, Optical SteadyShot image stabilization",
+    "info": "The Sony FE 70-200mm f/2.8 GM OSS Lens is a telephoto zoom that is characterized by its bright f/2.8 constant maximum aperture and optical image stabilization, making it ideal for capturing fast-moving subjects.",
+    "compatible_with": ["Sony a7R IV", "Sony a9 II", "Sony a7 III"]
+  },
+  {
+    "name": "Fujifilm XF 23mm f/2 R WR Lens",
+    "price": 449,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "23mm focal length, f/2 maximum aperture, autofocus, weather-resistant design",
+    "info": "The Fujifilm XF 23mm f/2 R WR Lens offers a classic wide-angle perspective that is especially well-suited for street, landscape, and architectural photography. The lens's design is weather-resistant, making it an excellent companion for travel and outdoor shooting.",
+    "compatible_with": ["Fujifilm X-T4", "Fujifilm X-Pro3", "Fujifilm X-T30"]
+  },
+  {
+    "name": "Canon EF 85mm f/1.2L II USM Lens",
+    "price": 1999,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "85mm focal length, f/1.2 maximum aperture, USM autofocus",
+    "info": "The Canon EF 85mm f/1.2L II USM is a medium telephoto lens that delivers superb image quality, making it ideal for portraits and low-light photography.",
+    "compatible_with": ["Canon EOS 5D Mark IV", "Canon EOS 6D Mark II", "Canon EOS 1D X Mark II"]
+  },
+  {
+    "name": "Nikon AF-S NIKKOR 24-70mm f/2.8E ED VR Lens",
+    "price": 2396,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "24-70mm focal length, f/2.8 maximum aperture, Silent Wave Motor autofocus, Vibration Reduction",
+    "info": "The Nikon AF-S NIKKOR 24-70mm f/2.8E ED VR is a versatile and professional grade zoom lens perfect for landscapes, portraits, weddings and events, studio, and general photography.",
+    "compatible_with": ["Nikon D850", "Nikon D780", "Nikon D750"]
+  },
+  {
+    "name": "Sony FE 85mm f/1.4 GM Lens",
+    "price": 1798,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "85mm focal length, f/1.4 maximum aperture, Direct Drive SSM autofocus",
+    "info": "The Sony FE 85mm f/1.4 GM Lens is a fast, medium telephoto lens well-suited for portraiture and other situations where focus control is paramount.",
+    "compatible_with": ["Sony a7R IV", "Sony a9 II", "Sony a7 III"]
+  },
+  {
+    "name": "Fujifilm XF 16-55mm f/2.8 R LM WR Lens",
     "price": 1199,
     "shipping_time": "3-5 business days",
     "warranty": "2 years",
-    "technical_details": "70-200mm zoom range, f/2.8 constant maximum aperture, autofocus",
-    "info": "The ZoomMaster 70-200mm f/2.8 Telephoto Zoom Lens is ideal for sports and wildlife photography. Its fast aperture allows for clear images in a range of light conditions, and the zoom range is flexible for framing distant subjects."
+    "technical_details": "16-55mm focal length, f/2.8 maximum aperture, Linear Motor autofocus, weather-resistant design",
+    "info": "The Fujifilm XF 16-55mm f/2.8 R LM WR is a versatile zoom lens that covers a wide-angle to portrait-length range of focal lengths, suitable for a wide variety of shooting scenarios.",
+    "compatible_with": ["Fujifilm X-T4", "Fujifilm X-Pro3", "Fujifilm X-T30"]
   },
   {
-    "name": "ProFocus 135mm f/2 Portrait Lens",
+    "name": "Olympus M.Zuiko Digital ED 300mm f/4 IS PRO Lens",
+    "price": 2499,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "300mm focal length, f/4 maximum aperture, High-speed Imager AF, image stabilization",
+    "info": "The Olympus M.Zuiko Digital ED 300mm f/4 IS PRO is a super-telephoto lens characterized by its relatively compact and lightweight profile, making it well-suited to handheld shooting applications.",
+    "compatible_with": ["Olympus OM-D E-M5 Mark III", "Olympus OM-D E-M1 Mark III", "Olympus PEN-F"]
+  },
+  {
+    "name": "Panasonic Lumix G X Vario 12-35mm f/2.8 II ASPH. POWER O.I.S. Lens",
+    "price": 997,
+    "shipping_time": "3-5 business days",
+    "warranty": "2 years",
+    "technical_details": "12-35mm focal length, f/2.8 maximum aperture, Power O.I.S. stabilization",
+    "info": "The Panasonic Lumix G X Vario 12-35mm f/2.8 II ASPH. POWER O.I.S. Lens is a versatile zoom that covers wide-angle to portrait-length perspectives. Perfect for day-to-day shooting, as well as for events and travel.",
+    "compatible_with": ["Panasonic Lumix DC-GH5 II", "Panasonic Lumix DC-G9", "Panasonic Lumix DC-GX9"]
+  },
+  {
+    "name": "Sigma 50mm f/1.4 DG HSM Art Lens for Nikon F",
     "price": 949,
     "shipping_time": "3-5 business days",
     "warranty": "2 years",
-    "technical_details": "135mm focal length, f/2 maximum aperture, autofocus",
-    "info": "The ProFocus 135mm f/2 Portrait Lens provides a longer focal length for portrait photography, delivering a high level of clarity and detail while maintaining a pleasing background blur. It's ideal for outdoor portraits and studio work."
+    "technical_details": "50mm focal length, f/1.4 maximum aperture, HSM autofocus",
+    "info": "The Sigma 50mm f/1.4 DG HSM Art Lens for Nikon F is a high-performance, large-diameter prime lens with a focal length that's perfect for any type of photography.",
+    "compatible_with": ["Nikon D850", "Nikon D780", "Nikon D750"]
   },
   {
-    "name": "WideMaster 14mm f/2.8 Ultra-Wide Angle Lens",
-    "price": 849,
+    "name": "Canon RF 28-70mm f/2L USM Lens",
+    "price": 2999,
     "shipping_time": "3-5 business days",
     "warranty": "2 years",
-    "technical_details": "14mm focal length, f/2.8 maximum aperture, manual focus",
-    "info": "The WideMaster 14mm f/2.8 Ultra-Wide Angle Lens is perfect for capturing large scenes in landscape and architectural photography. Its ultra-wide perspective can also create unique and creative images."
+    "technical_details": "28-70mm focal length, f/2 maximum aperture, USM autofocus",
+    "info": "The Canon RF 28-70mm f/2L USM is a unique standard zoom lens, characterized by its exceptionally bright f/2 maximum aperture. This lens is suitable for working in low-light conditions and also offers increased control over depth of field.",
+    "compatible_with": ["Canon EOS R", "Canon EOS RP", "Canon EOS R5"]
   },
   {
-    "name": "EagleEye 180mm f/3.5 Macro Lens",
-    "price": 1029,
+    "name": "Sony FE 24-105mm f/4 G OSS Lens",
+    "price": 1398,
     "shipping_time": "3-5 business days",
     "warranty": "2 years",
-    "technical_details": "180mm focal length, f/3.5 maximum aperture, autofocus, 1:1 magnification",
-    "info": "The EagleEye 180mm f/3.5 Macro Lens is a powerful tool for detailed close-up images, providing a longer working distance to not disturb the subject, ideal for insects and wildlife close-ups."
+    "technical_details": "24-105mm focal length, f/4 maximum aperture, Direct Drive SSM autofocus, Optical SteadyShot image stabilization",
+    "info": "The Sony FE 24-105mm f/4 G OSS Lens is a wide-angle to short-telephoto zoom lens designed for E-mount mirrorless cameras. Its flexible focal length range along with an f/4 maximum aperture makes it ideal for a wide range of shooting styles.",
+    "compatible_with": ["Sony a7R IV", "Sony a9 II", "Sony a7 III"]
   },
   {
-    "name": "ZoomMaster 24-70mm f/2.8 Standard Zoom Lens",
-    "price": 1099,
+    "name": "Fujifilm GF 110mm f/2 R LM WR Lens",
+    "price": 2799,
     "shipping_time": "3-5 business days",
     "warranty": "2 years",
-    "technical_details": "24-70mm zoom range, f/2.8 constant maximum aperture, autofocus",
-    "info": "The ZoomMaster 24-70mm f/2.8 Standard Zoom Lens is a versatile tool for a variety of photography styles. Its zoom range covers wide to short telephoto focal lengths, suitable for landscapes, portraits, and event photography."
-  },
-  {
-    "name": "WideMaster 20mm f/1.8 Wide-Angle Lens",
-    "price": 779,
-    "shipping_time": "3-5 business days",
-    "warranty": "2 years",
-    "technical_details": "20mm focal length, f/1.8 maximum aperture, autofocus",
-    "info": "The WideMaster 20mm f/1.8 Wide-Angle Lens excels in low-light conditions and is suitable for landscape, night sky, and environmental portrait photography. Its wide perspective captures large scenes."
-  },
-  {
-    "name": "Orion 35mm f/1.4 Prime Lens",
-    "price": 599,
-    "shipping_time": "3-5 business days",
-    "warranty": "2 years",
-    "technical_details": "35mm focal length, f/1.4 maximum aperture, autofocus",
-    "info": "The Orion 35mm f/1.4 Prime Lens is a versatile lens, perfect for a range of situations including street photography, portraits, and indoor low-light conditions."
-  },
-  {
-    "name": "ProFocus 105mm f/2 Portrait Lens",
-    "price": 879,
-    "shipping_time": "3-5 business days",
-    "warranty": "2 years",
-    "technical_details": "105mm focal length, f/2 maximum aperture, autofocus",
-    "info": "The ProFocus 105mm f/2 Portrait Lens is an excellent choice for both studio and natural light conditions, ideal for creating a pleasing bokeh effect in your portraits."
-  },
-  {
-    "name": "EagleEye 50mm f/2.8 Compact Macro Lens",
-    "price": 499,
-    "shipping_time": "3-5 business days",
-    "warranty": "2 years",
-    "technical_details": "50mm focal length, f/2.8 maximum aperture, autofocus, 1:1 magnification",
-    "info": "The EagleEye 50mm f/2.8 Compact Macro Lens is perfect for photographers who are new to macro photography. It offers 1:1 magnification for capturing detailed, life-size images of small subjects."
-  },
-  {
-    "name": "Orion 28mm f/2 Wide Angle Lens",
-    "price": 479,
-    "shipping_time": "3-5 business days",
-    "warranty": "2 years",
-    "technical_details": "28mm focal length, f/2 maximum aperture, autofocus",
-    "info": "The Orion 28mm f/2 Wide Angle Lens is suitable for landscape and street photography, providing a natural perspective and a fast aperture for low-light conditions."
-  },
-  {
-    "name": "ZoomMaster 200-500mm f/5.6 Super Telephoto Zoom Lens",
-    "price": 1399,
-    "shipping_time": "3-5 business days",
-    "warranty": "2 years",
-    "technical_details": "200-500mm zoom range, f/5.6 constant maximum aperture, autofocus",
-    "info": "The ZoomMaster 200-500mm f/5.6 Super Telephoto Zoom Lens is designed for wildlife and sports photography, allowing you to get close to distant subjects and capture them in great detail."
-  },
-  {
-    "name": "ProFocus 200mm f/2.8 Portrait Lens",
-    "price": 1249,
-    "shipping_time": "3-5 business days",
-    "warranty": "2 years",
-    "technical_details": "200mm focal length, f/2.8 maximum aperture, autofocus",
-    "info": "The ProFocus 200mm f/2.8 Portrait Lens provides an excellent solution for portraits that require a greater distance between the camera and subject, like candid and event portraits."
-  },
-  {
-    "name": "WideMaster 10mm f/4 Ultra-Wide Angle Lens",
-    "price": 749,
-    "shipping_time": "3-5 business days",
-    "warranty": "2 years",
-    "technical_details": "10mm focal length, f/4 maximum aperture, manual focus",
-    "info": "The WideMaster 10mm f/4 Ultra-Wide Angle Lens is a perfect tool for dramatic landscape and architectural shots. It offers an expansive view that captures a vast scene into one frame."
-  },
-  {
-    "name": "EagleEye 60mm f/2.8 Macro Lens",
-    "price": 549,
-    "shipping_time": "3-5 business days",
-    "warranty": "2 years",
-    "technical_details": "60mm focal length, f/2.8 maximum aperture, autofocus, 1:1 magnification",
-    "info": "The EagleEye 60mm f/2.8 Macro Lens is a versatile tool for close-up shots, ideal for capturing the finest details in small subjects. It's also suitable for portraits due to its flattering perspective."
-  },
-  {
-    "name": "ZoomMaster 18-35mm f/1.8 Wide Zoom Lens",
-    "price": 799,
-    "shipping_time": "3-5 business days",
-    "warranty": "2 years",
-    "technical_details": "18-35mm zoom range, f/1.8 constant maximum aperture, autofocus",
-    "info": "The ZoomMaster 18-35mm f/1.8 Wide Zoom Lens is ideal for landscapes, architecture, and low-light photography. Its wide aperture allows for creative depth-of-field control and excellent low-light performance."
-  },
-  {
-    "name": "Orion 40mm f/2 Pancake Lens",
-    "price": 229,
-    "shipping_time": "3-5 business days",
-    "warranty": "2 years",
-    "technical_details": "40mm focal length, f/2 maximum aperture, manual focus",
-    "info": "The Orion 40mm f/2 Pancake Lens is a compact and lightweight lens suitable for everyday and travel photography. It provides a balance between a wide and portrait-length perspective."
+    "technical_details": "110mm focal length, f/2 maximum aperture, Linear Motor autofocus, weather-resistant design",
+    "info": "The Fujifilm GF 110mm f/2 R LM WR is a medium telephoto lens for the G-mount GFX camera system. It is ideally suited for portraiture and other scenarios where a slightly longer-than-normal perspective and shallow depth of field are desired.",
+    "compatible_with": ["Fujifilm GFX 100S", "Fujifilm GFX 50S", "Fujifilm GFX 50R"]
   }
 ]
